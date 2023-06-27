@@ -1,3 +1,3 @@
 # Portfolio-OlavoVales
 
-My first project made with React
+Fazendo do meu novo portfolio utilizando React
