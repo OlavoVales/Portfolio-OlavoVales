@@ -1,3 +1,3 @@
 # Portfolio-OlavoVales
 
-Fazendo do meu novo portfolio utilizando React
+Realização do meu novo portfolio utilizando React.
