@@ -13,7 +13,7 @@ function Home() {
 
             <div className={stylesH.devCss}> <p>Desenvolvedor Full-Stack</p> </div>
 
-            <Link to="/sobre" className={stylesH.buttonCss}>Saiba mais sobre mim</Link>  //tag link substituiu o button
+            <Link to="/sobre" className={stylesH.buttonCss}>Saiba mais sobre mim</Link>  
 
             <img src={imgPagInicial} className={stylesH.imgPagInicial} alt="Imagem pagina inicial" /> 
 

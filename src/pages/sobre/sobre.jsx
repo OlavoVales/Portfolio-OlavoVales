@@ -22,11 +22,11 @@ function Sobre() {
                     <p>Sou <span>Olavo Vales</span> <br />
                     <strong>Desenvolvedor Junior</strong> </p>
 
-                    <p>atualmente realizando ensino médio técnico em Desenvolvimento Web e Mobile pelo Colégio Cotemig, com previsão de formação ao final de 2023.</p>
+                    <p>Atualmente realizando ensino médio técnico em Desenvolvimento Web e Mobile pelo Colégio Cotemig, com previsão de formação ao final de 2023.</p>
 
                     <p>Possuo conhecimento no front e back-end, além de ser uma pessoa muito focada, dedicada e resiliente.</p>
 
-                    <p>Possuo conhecimento no front e back-end, utilizando de React.js, Swift, Kotlin, Typescript, PHP e MySQL, além de ser uma pessoa muito focada, dedicada e resiliente.</p>
+                    <p>Constantemente na busca de aprender mais e me tornar uma versão melhor de mim mesmo a cada dia.</p>
                 </div>
             </div>
 

@@ -22,7 +22,7 @@ function Contatos() {
                         <a href='https://linkedin.com/in/olavo-vales' target='_blank' rel='noopener noreferrer'>
                             <BsLinkedin className={stylesContatos.icone} />
                         </a>
-                        <a href='(31) 9 9773-4361' target='_blank' rel='noopener noreferrer'>
+                        <a href='https://api.whatsapp.com/send?phone=5531997734361' target='_blank' rel='noopener noreferrer'>
                             <BsWhatsapp className={stylesContatos.icone} />
                         </a>
                     </div>

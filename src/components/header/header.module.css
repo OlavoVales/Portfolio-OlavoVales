@@ -1,56 +1,26 @@
-.header{
+.header {
     width: 100%;
-    height: 70px;
-    display: block;
+    height: 50px;
     background-color: #08649c;
+    color: var(--white);
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
-.limitadorHeader{
-    width: 1200px;
-    height: 50%;
-    background-color: #08649c;
-    display: block;
-    margin: 0 auto;
+.header span {
+    font-size: 1.5rem; /* 24px -> 16px = 1rem */
+    font-weight: bold;
 }
 
-.imgLogo{
-    width: 5%;
-    margin-right: 3px;
-}
-
-.logo p{
-    font-family: Belanosima;
-    font-size: 25px;
+.header a {
     text-decoration: none;
     color: white;
-    height: 100%;
-    /*display: table-cell;*/
+    padding-right: 1.5rem;
+    font-size: 1.125rem; /* 18px */
 }
 
-.logo{
-    /*height: 50%;*/
-    align-items: center; 
-    vertical-align: middle;
-    /*text-align: center;*/
-}
-
-.categorias{
-    float: right;
-    height: 100%;
-}
-
-.categorias p{
-    height: 100%;
-    display: table;
-    float: left;
-    padding: 0 20px;
-    text-decoration: none;
-}
-
-.categorias p li{
-    display: table-cell;
-    vertical-align: middle;
-    height: 100%;
-    color: white;
-    font-size: 16px;
+.header a:hover {
+    color: #242424;
 }

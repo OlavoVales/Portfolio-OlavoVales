@@ -7,6 +7,10 @@
     justify-content: center;
 }
 
+.avatar {
+    height: 150px;
+}
+
 .bio {
     display: flex;
     align-items: center;

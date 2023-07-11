@@ -1,38 +1,31 @@
-:root {
-    font-family: 'Fira Code', monospace;
-    font-synthesis: none;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    -webkit-text-size-adjust: 100%;
-  }
-  
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  
-  .olaSou{
-    line-height: 60px;
-    margin-left: 2%;
-    font-family: Belanosima;
-    font-size: 56px;
+.olaSou{
+  line-height: 60px;
+  margin-left: 2%;
+  font-family: Belanosima;
+  font-size: 56px;
     
-  }
+}
   
-  .olaSouCss{
-    margin-top: 10%;
-  }
+.olaSouCss{
+  margin-top: 10%;
+}
   
-  .nomeCss{
-    color: #08649c;
-    font-size: 70px;
-  }
+.nomeCss{
+  color: #08649c;
+  font-size: 70px;
+}
   
-  .imgPagInicial{
-    float: right;
-    width: 30%;
-    height: auto;
-  }
+.imgPagInicial{
+  float: right;
+  width: 30%;
+  height: auto;
+}
   
+.buttonCss {
+  width: 250px;
+  height: 50px;
+  font-size: 30px;
+  border: 0;
+  border-radius: 8px;
+  cursor: pointer;
+}
