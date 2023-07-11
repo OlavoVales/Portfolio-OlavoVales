@@ -1,4 +1,4 @@
-import stylesH from './home.css'
+import stylesH from './home.module.css'
 import imgPagInicial from '../../assets/undraw_feeling_proud_qne1.svg'
 import { Link } from 'react-router-dom'
 

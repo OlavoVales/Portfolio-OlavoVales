@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import stylesH from './header.css'  // dar nome ao import pois se pode importar mais de um css para ser usado no mesmo arquivo
+import stylesH from './header.module.css'  // dar nome ao import pois se pode importar mais de um css para ser usado no mesmo arquivo
 import logoSiteBranca from '../../assets/logoPortfolioSiteWhiteSemBorda.png'
 
 function Header() {

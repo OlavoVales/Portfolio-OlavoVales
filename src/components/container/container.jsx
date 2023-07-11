@@ -1,4 +1,4 @@
-import stylesContainer from './container.css'
+import stylesContainer from './container.module.css'
 
 function Container({ children }) {
     return (

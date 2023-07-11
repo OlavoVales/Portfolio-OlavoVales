@@ -1,5 +1,4 @@
-
-import stylesContatos from './contatos.css'
+import stylesContatos from './contatos.module.css'
 import { BsGithub, BsLinkedin, BsWhatsapp } from 'react-icons/bs'
 import { BiLogoGmail } from 'react-icons/bi'
 
