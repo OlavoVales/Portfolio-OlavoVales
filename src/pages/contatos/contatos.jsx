@@ -8,8 +8,8 @@ function Contatos() {
                 <section className={stylesContatos.contatos}>
                     <h2>Contatos</h2>
 
-                    <h3>Entre em contato</h3>
-                    <p>Para que possamos conversar mais sobre</p>
+                    <h3>Entre em contato comigo!</h3>
+                    <p>Abaixo estão os meios de contato para que possamos conversar mais sobre.</p>
 
                     <div className={stylesContatos.icones}>
                         
