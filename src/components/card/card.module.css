@@ -30,7 +30,7 @@
 .card_icones {
     display: flex;
     gap: 10px;
-    color: var(--red);
+    color: black;
     font-size: 1.5rem;
 }
 
@@ -39,16 +39,17 @@
     height: 40px;
     border: 0;
     border-radius: 8px;
-    background-color: var(--primary);
+    background-color: #242424;
     color: var(--white);
     font-size: 1.5rem;
     display: flex;
     align-items: center;
     justify-content: center;
     cursor: pointer;
+    color: white;
 }
 
 .botao:hover {
-    background-color: var(--red);
-    transition: all .5s;
+    background-color: #08649c;
+    transition: all .2s;
 }

@@ -2,7 +2,6 @@
     width: 100%;
     height: 50px;
     background-color: #08649c;
-    color: var(--white);
 
     display: flex;
     align-items: center;
@@ -16,11 +15,6 @@
 
 .header a {
     text-decoration: none;
-    color: white;
     padding-right: 1.5rem;
     font-size: 1.125rem; /* 18px */
-}
-
-.header a:hover {
-    color: #242424;
 }

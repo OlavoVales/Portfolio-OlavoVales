@@ -18,5 +18,10 @@
 
 .icone {
     font-size: 3rem;
-    color: var(--red);
+    color: #242424;
+}
+
+.icone:hover {
+    color: #08649c;
+    transition: all .2s;
 }

@@ -3,7 +3,9 @@ import stylesF from './footer.module.css'  // dar nome ao import pois se pode im
 function Footer() {
     return (
       <>
-        <div className={stylesF.rodapeCss}><p id="">Olavo Vales © 2023</p></div>
+        <footer className={stylesF.rodapeCss}>
+          <a>Olavo Vales © 2023</a>
+        </footer>
       </>
     )   
 }

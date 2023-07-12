@@ -19,9 +19,6 @@ function Sobre() {
                 <div className={styles.textos}>
                     <h2>Sobre</h2>
 
-                    <p>Sou <span>Olavo Vales</span> <br />
-                    <strong>Desenvolvedor Junior</strong> </p>
-
                     <p>Atualmente realizando ensino médio técnico em Desenvolvimento Web e Mobile pelo Colégio Cotemig, com previsão de formação ao final de 2023.</p>
 
                     <p>Possuo conhecimento no front e back-end, além de ser uma pessoa muito focada, dedicada e resiliente.</p>

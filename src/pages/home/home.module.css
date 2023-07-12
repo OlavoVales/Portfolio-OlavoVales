@@ -17,7 +17,7 @@
   
 .imgPagInicial{
   float: right;
-  width: 30%;
+  width: 40%;
   height: auto;
 }
   
@@ -28,4 +28,10 @@
   border: 0;
   border-radius: 8px;
   cursor: pointer;
+  color: #242424;
+  text-decoration: inherit;
+}
+
+.buttonCss:hover{
+  color: #08649c;
 }
