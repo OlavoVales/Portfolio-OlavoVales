@@ -7,8 +7,9 @@
     justify-content: center;
 }
 
-.avatar {
-    height: 150px;
+.fotoOlavo {
+    height: 300px;
+    border-radius: 30px;
 }
 
 .bio {
@@ -16,16 +17,6 @@
     align-items: center;
     gap: 3rem;
     margin-bottom: 1.5rem;
-}
-
-.bio span {
-    color: var(--red);
-    font-weight: bold;
-}
-
-.bio strong {
-    color: var(--secondary);
-    font-weight: bold;
 }
 
 .textos h2, p {
