@@ -10,8 +10,8 @@ function AppRoutes() {
     return (
         <BrowserRouter>
             <Routes>
-                <Route path='/' element={ <PageBase /> }>
-                    <Route path="/home" element={ <Home /> }></Route>
+                <Route element={ <PageBase /> }>
+                    <Route Route path='/' index element={ <Home /> }></Route>
                     <Route path="/sobre" element={ <Sobre /> }></Route>
                     <Route path="/projetos" element={ <Projetos /> }></Route>
                     <Route path="/contatos" element={ <Contatos /> }></Route>

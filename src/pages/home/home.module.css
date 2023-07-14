@@ -1,37 +1,41 @@
-.olaSou{
+.home {
+  width: 100%;
+  padding: 150px 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
   line-height: 60px;
-  margin-left: 2%;
   font-family: Belanosima;
   font-size: 56px;
-    
-}
-  
-.olaSouCss{
-  margin-top: 10%;
-}
-  
-.nomeCss{
-  color: #08649c;
-  font-size: 70px;
-}
-  
-.imgPagInicial{
-  float: right;
-  width: 40%;
-  height: auto;
-}
-  
-.buttonCss {
-  width: 250px;
-  height: 50px;
-  font-size: 30px;
-  border: 0;
-  border-radius: 8px;
-  cursor: pointer;
-  color: #242424;
-  text-decoration: inherit;
 }
 
-.buttonCss:hover{
+.home img {
+  height: 500px;
+}
+
+.home p {
+  font-size: 3rem; /* 48px */
+  margin-bottom: 1rem;
+}
+
+.home span {
+  color: #08649c;
+font-size: 70px;
+}
+
+.btn {
+  width: 250px;
+height: 50px;
+font-size: 30px;
+border: 0;
+border-radius: 8px;
+cursor: pointer;
+color: #242424;
+text-decoration: inherit;
+}
+
+.btn:hover {
   color: #08649c;
 }
