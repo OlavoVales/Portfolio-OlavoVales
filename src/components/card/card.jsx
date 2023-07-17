@@ -1,5 +1,6 @@
 import styles from './card.module.css'
-import { FaHtml5, FaCss3Alt, FaJs, FaReact } from 'react-icons/fa'
+import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaPhp } from 'react-icons/fa'
+
 import { BsArrowRight } from 'react-icons/bs'
 import { Link } from 'react-router-dom'
 
@@ -13,7 +14,7 @@ function Card({ name, description, html_url }) {
                 <div className={styles.card_icones}>
                     <FaHtml5 />
                     <FaCss3Alt />
-                    <FaJs />
+                    <FaPhp />
                     <FaReact />
                 </div>
                 <a  href={html_url}
