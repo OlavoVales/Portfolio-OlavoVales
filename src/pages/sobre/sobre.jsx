@@ -21,7 +21,7 @@ function Sobre() {
 
                     <p>Atualmente realizando ensino médio técnico em Desenvolvimento Web e Mobile pelo Colégio Cotemig, com previsão de formação ao final de 2023.</p>
 
-                    <p>Possuo conhecimento no front e back-end, além de ser uma pessoa muito focada, dedicada e resiliente.</p>
+                    <p>Possuo conhecimento no front e back-end, além de ser uma pessoa muito focada, dedicada, resiliente, otimista e comunicativa.</p>
 
                     <p>Constantemente na busca de aprender mais e me tornar uma versão melhor de mim mesmo a cada dia.</p>
                 </div>
