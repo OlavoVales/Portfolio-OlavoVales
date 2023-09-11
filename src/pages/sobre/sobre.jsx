@@ -6,6 +6,7 @@ import javascript from './imagesSobre/javascript.svg'
 import react from './imagesSobre/react.svg'
 import swift from './imagesSobre/swift.svg'
 import kotlin from './imagesSobre/kotlin.svg'
+import python from './imagesSobre/python.svg'
 import typescript from './imagesSobre/typescript.svg'
 import php from './imagesSobre/php.svg'
 import mysql from './imagesSobre/mysql.svg'
@@ -36,6 +37,7 @@ function Sobre() {
                     <img src={react} alt="Ícone do react" />
                     <img src={swift} alt="Ícone do swift" />
                     <img src={kotlin} alt="Ícone do kotlin" />
+                    <img src={python} açt="Ícone do python" />
                     <img src={typescript} alt="Ícone do typescript" />
                     <img src={php} alt="Ícone do php" />
                     <img src={mysql} alt="Ícone do mysql" />
