@@ -11,7 +11,7 @@ import typescript from './imagesSobre/typescript.svg'
 import csharp from './imagesSobre/csharp.svg'
 import php from './imagesSobre/php.svg'
 import mysql from './imagesSobre/mysql.svg'
-import sql from './imagesSobre/mysql.svg'
+import sql from './imagesSobre/sql.svg'
 
 function Sobre() {
     return (
