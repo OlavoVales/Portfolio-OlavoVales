@@ -22,7 +22,7 @@ function Sobre() {
                 <div className={styles.textos}>
                     <h2>Sobre</h2>
 
-                    <p>Atualmente realizando graduação em Engenheria de Software pela Puc Minas, tendo também formação técnica em Desenvolvendo Mobile e Web pelo Colégio Cotemig</p>
+                    <p>Atualmente realizando graduação em Engenheria de Software pela Puc Minas, tendo também formação técnica em Desenvolvendo Mobile e Web pelo Colégio Cotemig.</p>
 
                     <p>Possuo conhecimento no front e back-end, além de ser uma pessoa muito focada, dedicada, resiliente, otimista e comunicativa.</p>
 
