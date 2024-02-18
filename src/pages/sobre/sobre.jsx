@@ -8,8 +8,10 @@ import swift from './imagesSobre/swift.svg'
 import kotlin from './imagesSobre/kotlin.svg'
 import python from './imagesSobre/python.svg'
 import typescript from './imagesSobre/typescript.svg'
+import csharp from './imagesSobre/csharp.svg'
 import php from './imagesSobre/php.svg'
 import mysql from './imagesSobre/mysql.svg'
+import sql from './imagesSobre/mysql.svg'
 
 function Sobre() {
     return (
@@ -37,10 +39,11 @@ function Sobre() {
                     <img src={react} alt="Ícone do react" />
                     <img src={swift} alt="Ícone do swift" />
                     <img src={kotlin} alt="Ícone do kotlin" />
-                    <img src={python} açt="Ícone do python" />
+                    <img src={python} alt="Ícone do python" />
                     <img src={typescript} alt="Ícone do typescript" />
+                    <img src={csharp} alt="Ícone do csharp" />
                     <img src={php} alt="Ícone do php" />
-                    <img src={mysql} alt="Ícone do mysql" />
+                    <img src={sql} alt="Ícone do sql" />
                 </div>
             </div>
 
