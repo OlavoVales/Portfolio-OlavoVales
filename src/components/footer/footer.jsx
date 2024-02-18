@@ -4,7 +4,7 @@ function Footer() {
     return (
       <>
         <footer className={stylesF.rodapeCss}>
-          <a>Olavo Vales © 2023</a>
+          <a>Olavo Vales © 2024</a>
         </footer>
       </>
     )   

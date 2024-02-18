@@ -20,7 +20,7 @@ function Sobre() {
                 <div className={styles.textos}>
                     <h2>Sobre</h2>
 
-                    <p>Atualmente realizando ensino médio técnico em Desenvolvimento Web e Mobile pelo Colégio Cotemig, com previsão de formação ao final de 2023.</p>
+                    <p>Atualmente realizando graduação em Engenheria de Software, tendo também formação técnica em Desenvolvendo Mobile e Web pelo Colégio Cotemig</p>
 
                     <p>Possuo conhecimento no front e back-end, além de ser uma pessoa muito focada, dedicada, resiliente, otimista e comunicativa.</p>
 
