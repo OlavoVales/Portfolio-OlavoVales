@@ -10,7 +10,7 @@ function Home() {
                     <p>
                         Olá, sou <br />
                         <span>Olavo Vales</span> <br />
-                        Dev Full Stack Júnior
+                        Desenvolvedor Full Stack
                     </p>
                     <Link to="/sobre" className={`${stylesH.btn}`}>
                         Saiba mais sobre mim
