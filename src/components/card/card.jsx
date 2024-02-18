@@ -1,8 +1,8 @@
 import styles from './card.module.css'
-import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaPhp } from 'react-icons/fa'
+import { FaHtml5, FaCss3Alt, FaJs, FaReact, FaPhp, FaPython } from 'react-icons/fa'
+import { BiLogoTypescript } from "react-icons/bi";
 
 import { BsArrowRight } from 'react-icons/bs'
-import { Link } from 'react-router-dom'
 
 // eslint-disable-next-line react/prop-types
 function Card({ name, description, html_url }) {
@@ -12,10 +12,10 @@ function Card({ name, description, html_url }) {
             <p>{description}</p>
             <div className={styles.card_footer}>
                 <div className={styles.card_icones}>
-                    <FaHtml5 />
-                    <FaCss3Alt />
-                    <FaPhp />
+                    <BiLogoTypescript />
                     <FaReact />
+                    <FaPhp />
+                    <FaPython />
                 </div>
                 <a  href={html_url}
                     className={styles.botao}
